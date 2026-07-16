@@ -2,7 +2,7 @@
 
 AI Documentation • Workflow Design • Localization QA
 
-I build structured documentation and AI-assisted workflows that make knowledge easier to organize, maintain, and reuse.
+I design structured documentation and AI-assisted workflows that improve knowledge organization, consistency, and long-term maintainability.
 
 ## Current Focus
 
