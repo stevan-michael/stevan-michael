@@ -1,16 +1,31 @@
-## Hi there 👋
+# Stevanus Michael Pitoy
 
-<!--
-**stevan-michael/stevan-michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Documentation • Workflow Design • Localization QA
 
-Here are some ideas to get you started:
+I build structured documentation and AI-assisted workflows that make knowledge easier to organize, maintain, and reuse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- AI Documentation
+- Workflow Design
+- Documentation Architecture
+- Human-AI Collaboration
+- Localization QA
+
+## Featured Project
+
+### USER_PACKAGE
+
+An open-source framework for structured Human-AI collaboration through documentation architecture, workflow design, and knowledge organization.
+
+🔗 https://github.com/stevan-michael/user-package-public
+
+## Background
+
+15+ years in Localization QA, LiveOps, and content operations.
+
+Currently expanding into AI Documentation through practical documentation and workflow projects.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/michaelpitoy/
