@@ -27,6 +27,12 @@ Open-source framework for structured Human–AI collaboration through documentat
 
 🔗 https://github.com/stevan-michael/user-package-public
 
+### EN-ID GAME LOCALIZATION PORTFOLIO
+
+Professional English-to-Indonesian game localization and AI/MT post-editing samples covering UI, dialogue, quests, system text, terminology decisions, placeholder preservation, and contextual editing rationale.
+
+🔗 https://github.com/stevan-michael/en-id-game-localization-portfolio
+
 ### LTW *(Coming Soon)*
 
 AI-assisted Localization QA workflow designed to improve translation consistency, review quality, and repetitive QA processes.
