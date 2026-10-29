@@ -1,75 +1,20 @@
 # Stevanus Michael Pitoy
 
-**AI Evaluation • Localization QA (LQA) • Documentation Engineering • Human–AI Workflow Design**
+**AI Evaluation • English-to-Indonesian Localization • Game QA**
 
-I have over 15 years of experience in Localization QA (LQA), manual QA, LiveOps, and content operations for the gaming industry.
+I work on AI output evaluation and English-to-Indonesian localization, with a background in game testing, linguistic review, and live operations. I focus on clear Indonesian, context-appropriate wording, consistent terminology, and review findings that are easy to act on.
 
-My current focus is AI evaluation, documentation engineering, workflow design, and structured Human–AI collaboration. I evaluate LLM outputs using structured review methodologies while building reusable documentation systems and workflows that improve quality, consistency, and traceability.
+## What I Do
 
----
+- **AI evaluation:** Assess text, voice, and multimodal outputs using rubrics, comparisons, and evidence-based rationales.
+- **Localization and LQA:** Translate English-to-Indonesian content, with experience reviewing localized game text for meaning, context, terminology, and player experience.
+- **Game QA:** Experience in manual game testing and clear bug reporting.
+- **Documentation:** Write structured review notes and documentation in Markdown.
 
-## Current Focus
+## Portfolio
 
-- AI Evaluation
-- LLM Evaluation
-- Localization QA (LQA)
-- Documentation Engineering
-- Human–AI Workflow Design
-- Human–AI Collaboration
+[EN–ID Game Localization Portfolio](https://github.com/stevan-michael/en-id-game-localization-portfolio) — fictional localization and post-editing samples created for demonstration. No confidential client material.
 
----
+## Contact
 
-## Featured Projects
-
-### USER_PACKAGE
-
-Open-source framework for structured Human–AI collaboration through documentation architecture, workflow design, and knowledge organization.
-
-🔗 https://github.com/stevan-michael/user-package-public
-
-### EN-ID GAME LOCALIZATION PORTFOLIO
-
-Professional English-to-Indonesian game localization and AI/MT post-editing samples covering UI, dialogue, quests, system text, terminology decisions, placeholder preservation, and contextual editing rationale.
-
-🔗 https://github.com/stevan-michael/en-id-game-localization-portfolio
-
-### LTW *(Coming Soon)*
-
-AI-assisted Localization QA workflow designed to improve translation consistency, review quality, and repetitive QA processes.
-
----
-
-## Expertise
-
-### AI Evaluation
-
-- LLM Evaluation
-- RLHF-style Evaluation
-- Preference Ranking
-- Pairwise Comparison
-- Rubric-based Assessment
-- Multi-turn Conversation Analysis
-- Reasoning Verification
-- Evidence-based Review
-
-### Localization
-
-- Localization QA (LQA)
-- English ⇄ Indonesian Localization
-- Linguistic QA
-- Manual QA Testing
-
-### Documentation
-
-- Documentation Engineering
-- Workflow Design
-- Knowledge Organization
-- Technical Documentation
-- Markdown Documentation
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/michaelpitoy/
-- GitHub: https://github.com/stevan-michael
+[LinkedIn](https://www.linkedin.com/in/michaelpitoy/)
